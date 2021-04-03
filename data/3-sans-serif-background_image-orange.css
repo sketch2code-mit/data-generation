@@ -1,0 +1,7 @@
+main.container { text-align: right; } .btn {align-self: flex-end;} 
+h1 { font-family:Gill Sans, sans-serif; }
+body { background-image: url('images/orange.jpg'); background-size: cover; }
+aside { background-color: #e67e22; opacity: 0.7 }
+h1 { color: #e67e22; filter: brightness(170%);}
+.btn { background-color: #e67e22; filter: brightness(170%);}
+body {color: #fff} .btn span {color: #000} .navbar {filter: invert(1);}

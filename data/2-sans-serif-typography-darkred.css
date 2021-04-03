@@ -1,0 +1,5 @@
+h1 { font-family:Gill Sans, sans-serif; }
+body { background-color: #c0392b; }
+h1 { color: #c0392b; filter: brightness(170%);}
+.btn { background-color: #c0392b; filter: brightness(170%);}
+body {color: #fff} .btn span {color: #000} .navbar {filter: invert(1);}

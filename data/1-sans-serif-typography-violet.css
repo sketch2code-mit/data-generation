@@ -1,0 +1,5 @@
+h1 { font-family:Gill Sans, sans-serif; }
+body { background-color: #9b59b6; }
+h1 { color: #9b59b6; filter: brightness(50%);}
+.btn { background-color: rgba(0, 0, 0, 0.5);}
+.btn span {color: #fff; filter: brightness(200%);}

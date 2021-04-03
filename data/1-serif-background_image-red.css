@@ -1,0 +1,6 @@
+h1 { font-family:Abril Fatface, serif; }
+body { background-image: url('images/orange.jpg'); background-size: cover; }
+aside { background-color: #e74c3c; opacity: 0.7 }
+h1 { color: #e74c3c; filter: brightness(170%);}
+.btn { background-color: #e74c3c; filter: brightness(170%);}
+body {color: #fff} .btn span {color: #000} .navbar {filter: invert(1);}

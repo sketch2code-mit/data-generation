@@ -1,0 +1,6 @@
+main.container { text-align: right; } .btn {align-self: flex-end;} 
+h1 { font-family:Abril Fatface, serif; }
+body { background-color: #fff; }
+h1 { color: #000; filter: brightness(50%);}
+.btn { background-color: #000; filter: brightness(50%);}
+.btn span {color: #fff; filter: brightness(200%);}

@@ -1,0 +1,6 @@
+h1 { font-family:Gill Sans, sans-serif; }
+body { background-image: url('images/orange.jpg'); background-size: cover; }
+aside { background-color: #c0392b; opacity: 0.7 }
+h1 { color: #c0392b; filter: brightness(170%);}
+.btn { background-color: #c0392b; filter: brightness(170%);}
+body {color: #fff} .btn span {color: #000} .navbar {filter: invert(1);}

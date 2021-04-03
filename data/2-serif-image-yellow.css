@@ -1,0 +1,5 @@
+h1 { font-family:Abril Fatface, serif; }
+body { background-color: #f1c40f; }
+h1 { color: #f1c40f; filter: brightness(50%);}
+.btn { background-color: rgba(0, 0, 0, 0.5);}
+.btn span {color: #fff; filter: brightness(200%);}
