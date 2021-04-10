@@ -1,6 +1,7 @@
 # Data Generation
 
 
+
 ### DSL generation
 
 **Objective.** The pix2code project uses domain specific language (DSL) as a medium between screenshot and code in order to effectively train the model. To improve the sketch-to-code converters based on pix2code, we need to diversify and enlarge the dataset. As such, we wrote a code that auto-generate a variety of DSL files and compiled the corresponding HTML files. Then, we shot a screenshot of each HTML page, which was converted to a synthetic sketch later.
