@@ -27,5 +27,5 @@
 - `templates`
 - `landing.json`
 - `data_generation.ipynb`
-
-The resulting pairs of HTML and CSS files are located in the `data` directory.
+- `data`
+  - The resulting pairs of HTML and CSS files are located in the this directory.
