@@ -16,7 +16,7 @@
   - As a result, the auto-generated DSL files and the corresponding HTML files are located in this directory. 
   - There are 2160 DSL files (`.gui`) and 2160 HTML files (`.html`). The directories `js`, `styles`, `images` contain common scripts, stylesheets, images that are shared by all HTML files.
 
-
+---
 
 ### Stylesheet generation
 
