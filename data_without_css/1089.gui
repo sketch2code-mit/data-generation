@@ -1,0 +1,20 @@
+header-right {
+double {
+btn-inactive
+}
+double {
+empty
+}
+}
+container {
+row {
+single {
+empty
+}
+}
+row {
+single {
+big-text, btn
+}
+}
+}

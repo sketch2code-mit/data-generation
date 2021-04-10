@@ -1,0 +1,20 @@
+header-right {
+single {
+empty
+}
+}
+container {
+row {
+double {
+img
+}
+double {
+empty
+}
+}
+row {
+single {
+text
+}
+}
+}

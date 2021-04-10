@@ -1,0 +1,23 @@
+header-right {
+single {
+btn-active
+}
+}
+container {
+row {
+quadruple {
+img
+}
+quadruple {
+empty
+}
+double {
+empty
+}
+}
+row {
+single {
+small-title, btn
+}
+}
+}

@@ -1,0 +1,23 @@
+header {
+single {
+btn-inactive
+}
+}
+container {
+row {
+single {
+empty
+}
+}
+row {
+double {
+big-text, text
+}
+quadruple {
+small-title
+}
+quadruple {
+text
+}
+}
+}

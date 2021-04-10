@@ -1,0 +1,23 @@
+header {
+single {
+empty
+}
+}
+container {
+row {
+single {
+img
+}
+}
+row {
+quadruple {
+big-title
+}
+double {
+small-title
+}
+quadruple {
+text
+}
+}
+}

@@ -1,0 +1,38 @@
+header {
+quadruple {
+btn-active
+}
+quadruple {
+empty
+}
+double {
+btn-active
+}
+}
+container {
+row {
+quadruple {
+empty
+}
+double {
+img
+}
+quadruple {
+empty
+}
+}
+row {
+quadruple {
+btn
+}
+quadruple {
+big-title, text, btn
+}
+quadruple {
+big-title
+}
+quadruple {
+big-title
+}
+}
+}

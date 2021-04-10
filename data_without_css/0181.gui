@@ -1,0 +1,20 @@
+header {
+single {
+btn-inactive
+}
+}
+container {
+row {
+double {
+empty
+}
+double {
+empty
+}
+}
+row {
+single {
+small-title, btn
+}
+}
+}

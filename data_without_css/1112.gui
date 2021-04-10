@@ -1,0 +1,20 @@
+header-right {
+single {
+btn-active
+}
+}
+container {
+row {
+single {
+img
+}
+}
+row {
+double {
+text
+}
+double {
+big-title, text
+}
+}
+}

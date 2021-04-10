@@ -1,0 +1,29 @@
+header-right {
+single {
+empty
+}
+}
+container {
+row {
+quadruple {
+empty
+}
+double {
+empty
+}
+quadruple {
+empty
+}
+}
+row {
+double {
+big-text, btn
+}
+quadruple {
+big-text, text
+}
+quadruple {
+big-title
+}
+}
+}
