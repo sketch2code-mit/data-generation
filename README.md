@@ -18,6 +18,13 @@
 
 ---
 
+### Recompiled Pix2code data
+
+- `pix2code`
+  - We recompiled DSL files in the pix2code dataset using our own syntax in the `web-dsl-mapping.json` file. The generated HTML files are in this directory.
+
+---
+
 ### Stylesheet generation
 
 **Objective.** TBD.
