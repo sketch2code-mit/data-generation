@@ -1,2 +1,29 @@
-# stylesheet-generation
-stylesheet data generation
+# Data Generation
+
+
+### DSL generation
+
+**Objective.** The pix2code project uses domain specific language (DSL) as a medium between screenshot and code in order to effectively train the model. To improve the sketch-to-code converters based on pix2code, we need to diversify and enlarge the dataset. As such, we wrote a code that auto-generate a variety of DSL files and compiled the corresponding HTML files. Then, we shot a screenshot of each HTML page, which was converted to a synthetic sketch later.
+
+**File structure.** 
+
+- `web-dsl-mapping.json` 
+  - This json file defines the syntax of DSL. It maps a DSL token (e.g., `btn`) to the actual HTML code (e.g., `<button></button>`)
+- `data_without_css_generation.ipynb`
+  - This IPython Notebook file contains the code we used for automatically generating DSL files  and compiling the corresponding HTML files. You can refer to the comments in this file for more specific information.
+
+As a result, the auto-generated DSL files and the corresponding HTML files are located in the `data_without_css` directory.
+
+
+
+### Stylesheet generation
+
+**Objective.** TBD.
+
+**File structure.** TBD.
+
+- `templates`
+- `landing.json`
+- `data_generation.ipynb`
+
+The resulting pairs of HTML and CSS files are located in the `data` directory.
