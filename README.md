@@ -35,3 +35,11 @@
 - `data_generation.ipynb`
 - `data`
   - The resulting pairs of HTML and CSS files are located in the this directory.
+
+---
+
+### References
+
+- Pix2code: https://github.com/tonybeltramelli/pix2code
+- Sketch2code: https://github.com/mzbac/sketch2code
+- Sketch-code: https://github.com/ashnkumar/sketch-code
