@@ -1,6 +1,6 @@
 header {
 double {
-btn-active
+btn-inactive
 }
 double {
 btn-active
@@ -26,7 +26,7 @@ double {
 big-text, btn
 }
 double {
-small-title
+text
 }
 }
 }

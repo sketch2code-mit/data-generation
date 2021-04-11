@@ -9,21 +9,21 @@ empty
 container {
 row {
 double {
-img
+empty
 }
 double {
-empty
+img
 }
 }
 row {
 quadruple {
-small-title
+big-title, text, btn
 }
 quadruple {
-big-title, text
+big-text, text, btn
 }
 double {
-big-title
+btn
 }
 }
 }

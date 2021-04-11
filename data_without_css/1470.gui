@@ -17,10 +17,10 @@ img
 }
 row {
 double {
-big-title, text
+text
 }
 double {
-text
+big-title
 }
 }
 }

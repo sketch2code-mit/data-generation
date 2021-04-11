@@ -15,15 +15,15 @@ double {
 empty
 }
 double {
-empty
+img
 }
 }
 row {
 double {
-big-text, text
+big-text
 }
 double {
-empty
+big-text
 }
 }
 }

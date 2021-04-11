@@ -6,12 +6,12 @@ empty
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 single {
-btn
+big-text, btn
 }
 }
 }

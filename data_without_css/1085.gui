@@ -14,7 +14,7 @@ img
 }
 row {
 single {
-big-title
+big-text, text, btn
 }
 }
 }

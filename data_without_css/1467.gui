@@ -21,12 +21,12 @@ quadruple {
 empty
 }
 quadruple {
-empty
+img
 }
 }
 row {
 single {
-big-title, text
+btn
 }
 }
 }

@@ -23,16 +23,16 @@ img
 }
 row {
 quadruple {
-big-text, text
+small-title
 }
 quadruple {
-big-text, text
+empty
 }
 quadruple {
-big-text, text, btn
+big-title, text, btn
 }
 quadruple {
-small-title, btn
+text
 }
 }
 }

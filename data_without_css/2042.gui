@@ -20,13 +20,13 @@ empty
 }
 row {
 double {
-big-text, text, btn
+text
 }
 quadruple {
-big-text, text
+small-title, btn
 }
 quadruple {
-big-title
+text
 }
 }
 }

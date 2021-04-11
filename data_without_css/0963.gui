@@ -9,10 +9,10 @@ quadruple {
 empty
 }
 quadruple {
-empty
+img
 }
 quadruple {
-img
+empty
 }
 quadruple {
 empty
@@ -26,7 +26,7 @@ quadruple {
 big-text
 }
 quadruple {
-btn
+big-title
 }
 }
 }

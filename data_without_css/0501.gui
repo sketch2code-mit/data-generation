@@ -23,13 +23,13 @@ img
 }
 row {
 quadruple {
-text
+big-title, text
 }
 quadruple {
-btn
+text
 }
 double {
-big-title, text, btn
+text
 }
 }
 }

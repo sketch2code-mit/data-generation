@@ -1,15 +1,15 @@
 header-right {
 quadruple {
+btn-inactive
+}
+quadruple {
+btn-inactive
+}
+quadruple {
 btn-active
 }
 quadruple {
-btn-inactive
-}
-quadruple {
-btn-inactive
-}
-quadruple {
-btn-inactive
+empty
 }
 }
 container {
@@ -26,13 +26,13 @@ empty
 }
 row {
 quadruple {
-big-text
+big-title, text, btn
 }
 quadruple {
-big-text, btn
+big-text, text
 }
 double {
-big-text
+big-text, text
 }
 }
 }

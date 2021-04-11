@@ -20,10 +20,10 @@ double {
 big-title, text
 }
 quadruple {
-empty
+big-text, text
 }
 quadruple {
-big-title, text, btn
+big-text, text, btn
 }
 }
 }

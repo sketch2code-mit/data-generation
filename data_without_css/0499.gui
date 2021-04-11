@@ -3,10 +3,10 @@ quadruple {
 btn-active
 }
 double {
-empty
+btn-active
 }
 quadruple {
-btn-active
+btn-inactive
 }
 }
 container {
@@ -15,10 +15,10 @@ double {
 empty
 }
 quadruple {
-empty
+img
 }
 quadruple {
-img
+empty
 }
 }
 row {
@@ -29,7 +29,7 @@ quadruple {
 text
 }
 double {
-small-title, btn
+big-text, btn
 }
 }
 }

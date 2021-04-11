@@ -9,24 +9,24 @@ btn-active
 container {
 row {
 double {
-empty
+img
 }
 double {
-img
+empty
 }
 }
 row {
 quadruple {
+btn
+}
+quadruple {
+btn
+}
+quadruple {
+big-title, text, btn
+}
+quadruple {
 small-title
-}
-quadruple {
-big-title
-}
-quadruple {
-big-text, text, btn
-}
-quadruple {
-empty
 }
 }
 }

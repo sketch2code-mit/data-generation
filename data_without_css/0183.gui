@@ -1,20 +1,20 @@
 header {
 single {
-btn-active
+empty
 }
 }
 container {
 row {
 double {
-img
+empty
 }
 double {
-empty
+img
 }
 }
 row {
 single {
-small-title, btn
+small-title
 }
 }
 }

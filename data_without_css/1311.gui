@@ -20,10 +20,10 @@ empty
 }
 row {
 double {
-big-title
+big-title, text
 }
 double {
-big-text, btn
+big-text, text
 }
 }
 }

@@ -12,15 +12,15 @@ quadruple {
 empty
 }
 quadruple {
-img
+empty
 }
 double {
-empty
+img
 }
 }
 row {
 single {
-small-title, btn
+big-text, text
 }
 }
 }

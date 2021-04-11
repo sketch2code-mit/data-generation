@@ -9,12 +9,12 @@ btn-active
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 single {
-btn
+big-title, text
 }
 }
 }

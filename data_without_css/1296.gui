@@ -17,7 +17,7 @@ img
 }
 row {
 double {
-big-title, text
+big-title
 }
 double {
 big-title, text, btn

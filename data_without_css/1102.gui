@@ -12,12 +12,12 @@ btn-inactive
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 single {
-big-text, text, btn
+big-text, text
 }
 }
 }

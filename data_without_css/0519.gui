@@ -20,10 +20,10 @@ empty
 }
 row {
 quadruple {
-big-title
+big-text, text
 }
 quadruple {
-big-text, btn
+big-title, text, btn
 }
 quadruple {
 big-title, text, btn

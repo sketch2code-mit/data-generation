@@ -1,9 +1,9 @@
 header-right {
 double {
-btn-inactive
+empty
 }
 double {
-btn-inactive
+btn-active
 }
 }
 container {

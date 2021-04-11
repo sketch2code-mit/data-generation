@@ -9,12 +9,12 @@ double {
 empty
 }
 double {
-empty
+img
 }
 }
 row {
 single {
-big-text, text, btn
+small-title
 }
 }
 }

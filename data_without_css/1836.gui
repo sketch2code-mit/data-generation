@@ -1,6 +1,6 @@
 header-right {
 double {
-btn-active
+btn-inactive
 }
 double {
 btn-active
@@ -23,7 +23,7 @@ double {
 big-text, text
 }
 double {
-big-text, btn
+big-title, text, btn
 }
 }
 }

@@ -1,9 +1,9 @@
 header {
 quadruple {
-btn-inactive
+empty
 }
 double {
-btn-active
+btn-inactive
 }
 quadruple {
 btn-inactive
@@ -15,7 +15,7 @@ double {
 empty
 }
 quadruple {
-empty
+img
 }
 quadruple {
 empty

@@ -20,7 +20,7 @@ empty
 }
 row {
 single {
-empty
+small-title
 }
 }
 }

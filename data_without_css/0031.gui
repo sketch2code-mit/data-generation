@@ -6,15 +6,15 @@ btn-inactive
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 double {
-btn
+small-title, btn
 }
 double {
-big-text, btn
+empty
 }
 }
 }

@@ -1,17 +1,17 @@
 header-right {
 single {
-btn-active
+btn-inactive
 }
 }
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 single {
-empty
+big-title
 }
 }
 }

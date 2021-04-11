@@ -9,7 +9,7 @@ empty
 container {
 row {
 double {
-empty
+img
 }
 quadruple {
 empty
@@ -20,7 +20,7 @@ empty
 }
 row {
 single {
-big-text
+small-title
 }
 }
 }

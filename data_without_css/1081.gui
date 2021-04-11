@@ -1,12 +1,12 @@
 header-right {
 single {
-btn-inactive
+btn-active
 }
 }
 container {
 row {
 single {
-empty
+img
 }
 }
 row {

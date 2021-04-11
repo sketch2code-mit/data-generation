@@ -6,24 +6,24 @@ btn-active
 container {
 row {
 quadruple {
-img
+empty
 }
 quadruple {
 empty
 }
 double {
-empty
+img
 }
 }
 row {
 quadruple {
-big-title
+big-text, text, btn
 }
 quadruple {
 big-text, text, btn
 }
 double {
-small-title, btn
+big-title
 }
 }
 }

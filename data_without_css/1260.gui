@@ -1,6 +1,6 @@
 header-right {
 single {
-btn-active
+btn-inactive
 }
 }
 container {
@@ -14,7 +14,7 @@ empty
 }
 row {
 single {
-big-text
+big-title, text
 }
 }
 }

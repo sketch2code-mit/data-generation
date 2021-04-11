@@ -12,18 +12,18 @@ btn-active
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 double {
+big-text, btn
+}
+quadruple {
+small-title
+}
+quadruple {
 empty
-}
-quadruple {
-big-text
-}
-quadruple {
-big-text
 }
 }
 }

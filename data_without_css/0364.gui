@@ -17,7 +17,7 @@ empty
 }
 row {
 single {
-big-title, text, btn
+big-text, btn
 }
 }
 }

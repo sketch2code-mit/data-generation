@@ -12,15 +12,15 @@ quadruple {
 empty
 }
 quadruple {
-empty
+img
 }
 quadruple {
-img
+empty
 }
 }
 row {
 single {
-empty
+text
 }
 }
 }

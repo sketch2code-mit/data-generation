@@ -3,7 +3,7 @@ double {
 btn-inactive
 }
 double {
-btn-inactive
+btn-active
 }
 }
 container {
@@ -20,7 +20,7 @@ empty
 }
 row {
 single {
-btn
+big-text, text
 }
 }
 }

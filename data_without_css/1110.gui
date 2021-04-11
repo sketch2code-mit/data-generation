@@ -6,12 +6,12 @@ btn-inactive
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 double {
-empty
+small-title
 }
 double {
 big-text, text

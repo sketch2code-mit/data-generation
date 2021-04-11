@@ -6,18 +6,18 @@ empty
 container {
 row {
 double {
-empty
-}
-quadruple {
-empty
-}
-quadruple {
 img
+}
+quadruple {
+empty
+}
+quadruple {
+empty
 }
 }
 row {
 double {
-big-title
+small-title, btn
 }
 double {
 small-title

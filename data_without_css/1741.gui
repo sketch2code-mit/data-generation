@@ -12,18 +12,18 @@ double {
 empty
 }
 quadruple {
-img
+empty
 }
 }
 row {
 quadruple {
-small-title, btn
+big-title, text
 }
 quadruple {
-big-text
+empty
 }
 double {
-big-title, text, btn
+big-title
 }
 }
 }

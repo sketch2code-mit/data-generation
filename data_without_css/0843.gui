@@ -9,7 +9,7 @@ quadruple {
 empty
 }
 quadruple {
-empty
+img
 }
 double {
 empty
@@ -17,13 +17,13 @@ empty
 }
 row {
 quadruple {
-big-text
-}
-quadruple {
 small-title
 }
+quadruple {
+big-text, text
+}
 double {
-small-title, btn
+big-title, text
 }
 }
 }

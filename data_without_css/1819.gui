@@ -1,12 +1,12 @@
 header-right {
 quadruple {
-btn-active
+btn-inactive
 }
 double {
 btn-active
 }
 quadruple {
-btn-active
+btn-inactive
 }
 }
 container {

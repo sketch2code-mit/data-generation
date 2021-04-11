@@ -18,27 +18,27 @@ quadruple {
 empty
 }
 quadruple {
-empty
-}
-quadruple {
-empty
-}
-quadruple {
 img
+}
+quadruple {
+empty
+}
+quadruple {
+empty
 }
 }
 row {
 quadruple {
+big-text
+}
+quadruple {
+empty
+}
+quadruple {
+big-text, text
+}
+quadruple {
 big-title, text
-}
-quadruple {
-big-title
-}
-quadruple {
-big-text, text, btn
-}
-quadruple {
-small-title
 }
 }
 }

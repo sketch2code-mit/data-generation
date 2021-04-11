@@ -1,9 +1,9 @@
 header-right {
 double {
-empty
+btn-inactive
 }
 double {
-btn-inactive
+btn-active
 }
 }
 container {
@@ -20,10 +20,10 @@ empty
 }
 row {
 double {
-big-title, text
+small-title, btn
 }
 double {
-big-title, text
+small-title, btn
 }
 }
 }

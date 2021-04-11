@@ -6,30 +6,30 @@ double {
 btn-active
 }
 quadruple {
-btn-inactive
+btn-active
 }
 }
 container {
 row {
 double {
+empty
+}
+quadruple {
+empty
+}
+quadruple {
 img
-}
-quadruple {
-empty
-}
-quadruple {
-empty
 }
 }
 row {
 quadruple {
-big-text, text, btn
-}
-quadruple {
-btn
+big-title, text
 }
 quadruple {
 big-title
+}
+quadruple {
+btn
 }
 quadruple {
 big-text, text, btn

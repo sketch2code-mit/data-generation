@@ -12,12 +12,12 @@ btn-active
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 single {
-big-title, text, btn
+big-title
 }
 }
 }

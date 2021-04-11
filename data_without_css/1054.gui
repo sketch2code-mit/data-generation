@@ -9,27 +9,27 @@ quadruple {
 empty
 }
 quadruple {
+empty
+}
+quadruple {
+empty
+}
+quadruple {
 img
-}
-quadruple {
-empty
-}
-quadruple {
-empty
 }
 }
 row {
 quadruple {
-small-title, btn
+big-title, text
 }
 quadruple {
 btn
 }
 quadruple {
-big-title
+small-title, btn
 }
 quadruple {
-big-title
+text
 }
 }
 }

@@ -3,7 +3,7 @@ double {
 btn-inactive
 }
 double {
-btn-active
+btn-inactive
 }
 }
 container {
@@ -14,7 +14,7 @@ img
 }
 row {
 single {
-big-title, text
+big-text, text
 }
 }
 }

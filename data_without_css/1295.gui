@@ -9,18 +9,18 @@ btn-inactive
 container {
 row {
 double {
-img
+empty
 }
 double {
-empty
+img
 }
 }
 row {
 double {
-big-text, btn
+small-title, btn
 }
 double {
-btn
+big-text, text
 }
 }
 }

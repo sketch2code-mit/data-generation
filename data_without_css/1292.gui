@@ -14,10 +14,10 @@ img
 }
 row {
 double {
-big-text, text
+big-title
 }
 double {
-big-text, text, btn
+btn
 }
 }
 }

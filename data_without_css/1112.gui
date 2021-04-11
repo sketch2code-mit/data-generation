@@ -11,10 +11,10 @@ img
 }
 row {
 double {
-text
+small-title, btn
 }
 double {
-big-title, text
+big-text, btn
 }
 }
 }

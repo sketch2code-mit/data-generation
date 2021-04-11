@@ -6,7 +6,7 @@ btn-inactive
 container {
 row {
 double {
-empty
+img
 }
 double {
 empty
@@ -14,7 +14,7 @@ empty
 }
 row {
 single {
-small-title
+big-title, text, btn
 }
 }
 }

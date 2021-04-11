@@ -3,7 +3,7 @@ double {
 btn-active
 }
 double {
-empty
+btn-active
 }
 }
 container {
@@ -23,7 +23,7 @@ double {
 big-title, text, btn
 }
 quadruple {
-small-title
+big-text, btn
 }
 quadruple {
 big-title

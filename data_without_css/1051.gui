@@ -1,35 +1,35 @@
 header {
 single {
-empty
+btn-inactive
 }
 }
 container {
 row {
 quadruple {
-empty
-}
-quadruple {
-empty
-}
-quadruple {
-empty
-}
-quadruple {
 img
+}
+quadruple {
+empty
+}
+quadruple {
+empty
+}
+quadruple {
+empty
 }
 }
 row {
 quadruple {
-big-text, text, btn
+empty
 }
 quadruple {
-big-text
+big-text, btn
 }
 quadruple {
-big-title
+btn
 }
 quadruple {
-small-title, btn
+btn
 }
 }
 }

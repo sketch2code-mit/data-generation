@@ -6,13 +6,13 @@ btn-inactive
 container {
 row {
 double {
+empty
+}
+quadruple {
+empty
+}
+quadruple {
 img
-}
-quadruple {
-empty
-}
-quadruple {
-empty
 }
 }
 row {
@@ -20,10 +20,10 @@ double {
 big-text, text
 }
 quadruple {
-small-title, btn
+big-title, text
 }
 quadruple {
-small-title
+big-text, text
 }
 }
 }

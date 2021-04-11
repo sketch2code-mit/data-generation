@@ -1,6 +1,6 @@
 header {
 double {
-empty
+btn-active
 }
 double {
 empty
@@ -17,10 +17,10 @@ img
 }
 row {
 double {
-big-title
+text
 }
 double {
-big-text, text, btn
+big-title, text, btn
 }
 }
 }

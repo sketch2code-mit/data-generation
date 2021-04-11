@@ -9,7 +9,7 @@ btn-inactive
 container {
 row {
 single {
-empty
+img
 }
 }
 row {

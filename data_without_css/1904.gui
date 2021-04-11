@@ -6,7 +6,7 @@ quadruple {
 btn-active
 }
 quadruple {
-empty
+btn-active
 }
 }
 container {
@@ -23,13 +23,13 @@ empty
 }
 row {
 quadruple {
-big-text
+big-text, btn
 }
 double {
-small-title
+text
 }
 quadruple {
-big-title, text
+big-title
 }
 }
 }

@@ -14,13 +14,13 @@ empty
 }
 row {
 quadruple {
-text
+empty
 }
 double {
-big-title
+big-text, text
 }
 quadruple {
-big-text
+empty
 }
 }
 }

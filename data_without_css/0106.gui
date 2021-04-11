@@ -3,7 +3,7 @@ quadruple {
 btn-active
 }
 double {
-btn-inactive
+empty
 }
 quadruple {
 btn-active
@@ -12,18 +12,18 @@ btn-active
 container {
 row {
 single {
-empty
+img
 }
 }
 row {
 quadruple {
-big-title
+big-text, text, btn
 }
 double {
-big-text, text
+big-title
 }
 quadruple {
-big-text, btn
+big-text, text, btn
 }
 }
 }

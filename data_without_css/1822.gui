@@ -23,7 +23,7 @@ empty
 }
 row {
 single {
-small-title
+big-title, text
 }
 }
 }

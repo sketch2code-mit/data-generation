@@ -6,36 +6,36 @@ quadruple {
 btn-active
 }
 quadruple {
-btn-active
+empty
 }
 }
 container {
 row {
+quadruple {
+empty
+}
+quadruple {
+empty
+}
 quadruple {
 img
 }
 quadruple {
 empty
 }
-quadruple {
-empty
-}
-quadruple {
-empty
-}
 }
 row {
 quadruple {
-big-title
+btn
 }
 quadruple {
-big-text, text, btn
-}
-quadruple {
-big-text, text, btn
+small-title, btn
 }
 quadruple {
 btn
+}
+quadruple {
+big-title, text
 }
 }
 }
